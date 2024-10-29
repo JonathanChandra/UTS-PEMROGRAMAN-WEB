@@ -13,7 +13,8 @@ CSS: Untuk tampilan website.
 JavaScript: Untuk interaktivitas di halaman.
 
 Demo
-Proyek ini dapat diakses di sini.
+Proyek ini dapat diakses di bawah ini.
+https://jonathanchandra.github.io/UTS-PEMROGRAMAN-WEB/
 
 Panduan Penggunaan
 Buka halaman utama untuk mengenal website.
